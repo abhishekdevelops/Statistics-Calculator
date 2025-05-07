@@ -35,7 +35,8 @@ getRange([10, 2, 8]); // Output: 8
 getVariance([2, 4, 4, 4, 5, 5, 7, 9]); // Output: 4
 ```
 
-## 🔗 Live Demo & Certification  
-[Live Demo](https://abhishekdevelops.github.io/Statistics-Calculator) 
+## 🔗 View Demo  
+[Live Demo](https://abhishekdevelops.github.io/Statistics-Calculator)
 
-Part of the  JavaScript Algorithms and Data Structures Certification.(https://www.freecodecamp.org/)
+## 🏆 Part of FreeCodeCamp Project  
+This project is part of the **JavaScript Algorithms and Data Structures Certification** by [freeCodeCamp](https://www.freecodecamp.org/).
