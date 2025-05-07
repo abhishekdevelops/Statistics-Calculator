@@ -38,4 +38,4 @@ getVariance([2, 4, 4, 4, 5, 5, 7, 9]); // Output: 4
 ## 🔗 Live Demo & Certification  
 [Live Demo](https://abhishekdevelops.github.io/Statistics-Calculator) 
 
-Part of the [freeCodeCamp JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/)
+Part of the  JavaScript Algorithms and Data Structures Certification.(https://www.freecodecamp.org/)
